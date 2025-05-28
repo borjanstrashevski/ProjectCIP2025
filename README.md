@@ -22,7 +22,7 @@ Features
 How to Run
 
 1.	Clone the project from GitHub:
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/borjanstrashevski/ProjectCIP2025.git
 
 2.	Open the project in IntelliJ, Eclipse, or another Java IDE.
 
